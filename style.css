@@ -1,0 +1,36 @@
+body{
+    text-align: center;
+    background-image: url('assets/bg.avif');
+}
+span{
+    color: aliceblue;
+}
+.box{
+    height: 200px;
+    width: 200px;
+    border: 10px solid black;
+    border-radius: 15px;
+    margin: 2rem;
+}
+.box-container{
+    display: flex;
+    justify-content: center;
+}
+.red{
+    background-color: red;
+}
+.yellow{
+    background-color: yellow;
+}
+.green{
+    background-color: green;
+}
+.blue{
+    background-color: blue;
+}
+.flash{
+    background-color: white;
+}
+.userFlash{
+    background-color: cyan;
+}
